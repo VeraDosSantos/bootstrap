@@ -50,3 +50,11 @@ h1, h2, h3, h4, h5, h6, em, footer p{
 .card img{
     height: 400px;
 }
+
+.employee img {
+    width: 100%;
+}
+
+#myA {
+    text-align: end;
+}
